@@ -6,6 +6,9 @@ teached to a student and make it lively in an AR app so we could explains more e
 more visually a phenomen.
 
 # Step 0: The idea and the story board !
+
+![storyboard_vir](https://github.com/user-attachments/assets/700b1536-80f6-4933-a9e5-40d3dc5f353b)
+
 The first step was to brainstorm and idea that fit the requirements for the project.
 Then the idea was good we made a story board to have a guideline for the animation.
 
