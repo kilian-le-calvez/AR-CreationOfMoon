@@ -26,7 +26,7 @@ Using Jira for dispatching our tasks.
 
 # Step 2: Basic Features Implementation
 
-https://github.com/user-attachments/assets/08da306f-3bc8-4827-963e-e7156067c0a6
+https://github.com/user-attachments/assets/021f75b8-c8ed-4b66-a43a-cabfb9ac7439
 
 Develop a flat surface scanning system to identify and interact with surfaces in the AR environment.
 Create basic animations for initial interactions and visual feedback.
