@@ -16,6 +16,14 @@ Then the idea was good we made a story board to have a guideline for the animati
 Set up the Unity project structure and documentation.
 Configure the AR application to ensure compatibility and functionality.
 
+<img width="1440" alt="Screenshot 2025-01-12 at 13 35 37" src="https://github.com/user-attachments/assets/c29346d8-1127-4ba5-9cbf-660002660425" />
+
+Using UVCS for synchronizing our work, in unity cloud.
+
+<img width="1440" alt="Screenshot 2025-01-12 at 13 36 02" src="https://github.com/user-attachments/assets/558537c4-50cd-4a0f-9edc-61b70716ebed" />
+
+Using Jira for dispatching our tasks.
+
 # Step 2: Basic Features Implementation
 Develop a flat surface scanning system to identify and interact with surfaces in the AR environment.
 Create basic animations for initial interactions and visual feedback.
