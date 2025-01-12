@@ -34,13 +34,24 @@ Implement a physics-based explosion system to simulate realistic destruction.
 Develop a particle attraction system to create dynamic and engaging effects.
 
 # Step 3: Asset Preparation
+
+https://www.solarsystemscope.com/textures/
+
+https://github.com/user-attachments/assets/ef339dff-e0de-4715-a395-275ce7965a48
+
 Search for suitable planet textures to enhance the visual quality of the application.
 Combine animations involving explosion, rotation, and attraction to create seamless transitions and effects.
 
 # Step 4: Core Functionality Development
 Build the application on a mobile platform to test and validate AR features.
-Create an animation recorder system to capture and replay animations dynamically.
-Use JSON to trigger and manage animations in the mobile build.
+(Build on Android & Iphone devices)
+
+Create an animation recorder system to capture and replay animations dynamically :
+- Using keyframes to store position and other informations on objects
+  
+Use JSON to trigger and manage animations in the mobile build :
+- Playing animation and interpolate between keyframe, it makes the application lightest comparing an animation that use 3D physics.
+
 Develop a standalone testing scene for rapid iteration without requiring a full build process.
 
 # Step 5: User Interface and Interaction
