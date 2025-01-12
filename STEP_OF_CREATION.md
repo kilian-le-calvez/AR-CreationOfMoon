@@ -1,4 +1,4 @@
-![ui_moonar](https://github.com/user-attachments/assets/10e6056c-6bbf-4cde-9df1-dc83c1acc1d1)# Project Creation Steps
+# Project Creation Steps
 
 # Goal of the project :
 The goald was to make an educationnal AR application. We had to find a theme that could be
