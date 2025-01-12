@@ -25,6 +25,9 @@ Using UVCS for synchronizing our work, in unity cloud.
 Using Jira for dispatching our tasks.
 
 # Step 2: Basic Features Implementation
+
+https://github.com/user-attachments/assets/08da306f-3bc8-4827-963e-e7156067c0a6
+
 Develop a flat surface scanning system to identify and interact with surfaces in the AR environment.
 Create basic animations for initial interactions and visual feedback.
 Implement a physics-based explosion system to simulate realistic destruction.
