@@ -1,5 +1,14 @@
 # Project Creation Steps
 
+# Goal of the project :
+The goald was to make an educationnal AR application. We had to find a theme that could be
+teached to a student and make it lively in an AR app so we could explains more easely,
+more visually a phenomen.
+
+# Step 0: The idea and the story board !
+The first step was to brainstorm and idea that fit the requirements for the project.
+Then the idea was good we made a story board to have a guideline for the animation.
+
 # Step 1: Initial Setup
 Set up the Unity project structure and documentation.
 Configure the AR application to ensure compatibility and functionality.
