@@ -1,4 +1,4 @@
-# Project Creation Steps
+![ui_moonar](https://github.com/user-attachments/assets/10e6056c-6bbf-4cde-9df1-dc83c1acc1d1)# Project Creation Steps
 
 # Goal of the project :
 The goald was to make an educationnal AR application. We had to find a theme that could be
@@ -55,11 +55,20 @@ Use JSON to trigger and manage animations in the mobile build :
 Develop a standalone testing scene for rapid iteration without requiring a full build process.
 
 # Step 5: User Interface and Interaction
+
+![story_moonar](https://github.com/user-attachments/assets/bcd350fa-e93f-4781-94b2-a3d0e6d4e668)
+
 Add a UI controller to manage and display text information for voice prompts.
 Implement functionality to play voiceovers that read displayed text, enhancing accessibility and immersion.
+
+![ui_moonar](https://github.com/user-attachments/assets/b2d64ce5-f191-43ac-b48a-e96cad035b62)
+
 Develop a menu navigation system with two distinct modes of play to cater to different user preferences.
 
 # Step 6: Advanced Features
+
+[Insert short video of latest version here]
+
 Upgrade the environment to improve immersion and realism.
 Add UI elements in 3D space to create a more intuitive and interactive user experience.
 
